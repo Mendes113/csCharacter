@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mendes/Documents/net/net.csproj": {}
+    "/home/mendes/Documents/csharp/csCharacter/net/net.csproj": {}
   },
   "projects": {
-    "/home/mendes/Documents/net/net.csproj": {
+    "/home/mendes/Documents/csharp/csCharacter/net/net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mendes/Documents/net/net.csproj",
+        "projectUniqueName": "/home/mendes/Documents/csharp/csCharacter/net/net.csproj",
         "projectName": "net",
-        "projectPath": "/home/mendes/Documents/net/net.csproj",
+        "projectPath": "/home/mendes/Documents/csharp/csCharacter/net/net.csproj",
         "packagesPath": "/home/mendes/.nuget/packages/",
-        "outputPath": "/home/mendes/Documents/net/obj/",
+        "outputPath": "/home/mendes/Documents/csharp/csCharacter/net/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mendes/.nuget/NuGet/NuGet.Config"

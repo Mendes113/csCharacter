@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gp75lS2/rsGef3oPM5e3MgBMZggnfrIWMvViW+y9HzVmmxAD+ffq8/BpjctjJBrTccwf2uzCy+D2u7pIKgGHfw==",
+  "dgSpecHash": "fkWfTZ2ty4HEfTfyEdLni7Qnb119Yg7B8IAlPvUki6DiL26houq4LmJgXPCYvZNJOTW5Ds/O6cGpHTJHVGLg4A==",
   "success": true,
-  "projectFilePath": "/home/mendes/Documents/net/net.csproj",
+  "projectFilePath": "/home/mendes/Documents/csharp/csCharacter/net/net.csproj",
   "expectedPackageFiles": [
     "/home/mendes/.nuget/packages/microsoft.aspnetcore.openapi/7.0.14/microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
     "/home/mendes/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
